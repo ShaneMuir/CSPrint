@@ -435,9 +435,7 @@
 .about-section .image-holder img {
     width: 100%!important;
     height: 100%!important;
-    border-style: groove;
-    border-color: #fdd007;
-    border-width: 10px;
+
 }
 .about-section .image-text {
     padding-left: 18px;
